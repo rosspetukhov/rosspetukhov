@@ -1,9 +1,9 @@
 Hi, I’m Ross,
 
-I'm an Analytics Manager, specifically focusing on Supply Chain 
+I'm an Analytics Manager, specifically focusing on Supply Chain.
 
-- currently working at Unilever as Analytics manager
-- currently doing a PhD in Engineering
+- Working at Unilever as Analytics manager.
+- Doing a PhD in Engineering.
 
 My LinkedIn is https://www.linkedin.com/in/ross-pietukhov/
 
